@@ -1,0 +1,11 @@
+D:\Gitlab\pessoal\teste-api\teste-api2\out\teste-api2.exe
+D:\Gitlab\pessoal\teste-api\teste-api2\out\appsettings.Development.json
+D:\Gitlab\pessoal\teste-api\teste-api2\out\appsettings.json
+D:\Gitlab\pessoal\teste-api\teste-api2\out\teste-api2.dll
+D:\Gitlab\pessoal\teste-api\teste-api2\out\teste-api2.deps.json
+D:\Gitlab\pessoal\teste-api\teste-api2\out\teste-api2.runtimeconfig.json
+D:\Gitlab\pessoal\teste-api\teste-api2\out\teste-api2.pdb
+D:\Gitlab\pessoal\teste-api\teste-api2\out\Microsoft.OpenApi.dll
+D:\Gitlab\pessoal\teste-api\teste-api2\out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Gitlab\pessoal\teste-api\teste-api2\out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Gitlab\pessoal\teste-api\teste-api2\out\Swashbuckle.AspNetCore.SwaggerUI.dll
